@@ -1,4 +1,4 @@
 map = {
 {id = "Grass Isle"; icon = "rbxassetid://9063805762"}
 }
-return map
+return function() return map end
